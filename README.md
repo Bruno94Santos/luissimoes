@@ -3,10 +3,10 @@
 ## Estrutura dos ficheiros
 
 <strong>db0.php</strong> - ficheiro de ligação à DATA API da Tabela 00<br/>
-db1.php - ficheiro de ligação à DATA API da Tabela 01 com JOIN da Tabela 02<br/>
-DT0.js - ficheiro de configuração da Data Tables<br/>
-index.html - View principal<br/>
-index2.html - Segunda view
+<strong>db1.php</strong> - ficheiro de ligação à DATA API da Tabela 01 com JOIN da Tabela 02<br/>
+<strong>DT0.js</strong> - ficheiro de configuração da Data Tables<br/>
+<strong>index.html</strong> - View principal<br/>
+<strong>index2.html</strong> - Segunda view
 
 ## REST API com as Base de dados
 
